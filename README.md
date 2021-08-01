@@ -14,12 +14,14 @@ Followers Last Commit Language Top Language Search Repo Size Starts Forks
 * Crack ID Publik
 * Crack ID Dari Link Post
 * Crack ID Dari Pencarian Nama
+
 #Install
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
 $ git clone https://github.com/MILZUTC/Milzu-TC
+
 #And Cr4ck this script
-$ cd C41CK3R
+$ cd Cr4ck
 $ bash setup.sh
-$ python C41CK3R.py
+$ python Cr4ck.py
